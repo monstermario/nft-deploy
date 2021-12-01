@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="518" height="192" viewBox="0 0 518 192">
+  <defs>
+    <filter id="Path_5871" x="0" y="0" width="518" height="192" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#23262f" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_366" data-name="Group 366" transform="translate(-387.5 -247.5)">
+    <g transform="matrix(1, 0, 0, 1, 387.5, 247.5)" filter="url(#Path_5871)">
+      <path id="Path_5871-2" data-name="Path 5871" d="M10,0H493a10,10,0,0,1,10,10V167a10,10,0,0,1-10,10H10A10,10,0,0,1,0,167V10A10,10,0,0,1,10,0Z" transform="translate(7.5 2.5)" fill="#fff"/>
+    </g>
+    <text id="BROWSE_ALL_ARTWORKS" data-name="BROWSE ALL ARTWORKS" transform="translate(491 295)" fill="#20bdff" font-size="36" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-126" y="35">BROWSE ALL </tspan><tspan x="-111" y="79">ARTWORKS</tspan></text>
+  </g>
+</svg>
